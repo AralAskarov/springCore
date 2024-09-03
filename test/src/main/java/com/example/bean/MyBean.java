@@ -1,4 +1,4 @@
-package com.car.example.bean;
+package com.example.bean;
 
 public class MyBean {
     private String message;
